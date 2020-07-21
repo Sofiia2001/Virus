@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00043E84-08D7-AB2D-8795-25FA4CE57B9C}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "RMPP",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/05b3c06715ba4f61aebe67856235b475"
+		}
+	]
+}

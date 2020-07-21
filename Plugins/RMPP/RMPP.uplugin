@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Multiplayer Projectile Physics Plugin",
+	"Description": "An actor component and complementary blueprint classes for multiplayer client side projectiles",
+	"Category": "Physics",
+	"CreatedBy": "Mipmap Games",
+	"CreatedByURL": "mipmapgames.com",
+	"DocsURL": "mipmapgames.com/readme.pdf",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/05b3c06715ba4f61aebe67856235b475",
+	"SupportURL": "support@mipmapgames.com",
+	"EngineVersion": "4.24.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RMPP",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		}
+	]
+}
